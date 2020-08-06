@@ -34,6 +34,22 @@ Current   Open              Closed            Parent      g-score               
 ## Question 3
 
 List out the cells that represent the shortest path you found above. Then list the commands that would need to be sent to the robot to follow this path. The robot in question moves perfectly without any error, and reponds to two commands: it can either move forward a specified number of cells with `move(cells)`, or it can turn with `turn(radians)`. The robot should end at the goal the same direction at which it faced originally.
+(3,3)        
+(4,3)
+(5,3)
+(6,3)
+(7,3)
+(8,3)
+(9,3)
+(10,3)
+(11,3)
+(12,3)
+(12,2)
+(12,1)
 
+move(12);
+turn(-pi/2);
+move(2);
+turn(pi/2);
 
 
