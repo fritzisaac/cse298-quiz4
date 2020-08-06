@@ -6,7 +6,8 @@ Make at least 1 commit per question.
 
 ## Question 1
 
-What is the difference between Dijkstra's Algorithm and A*. Why would one use Dijkstra's over A* and vice versa?
+### What is the difference between Dijkstra's Algorithm and A*. Why would one use Dijkstra's over A* and vice versa?
+A* attempts to optimize the path using heuristics. Generally, A* is the better choice. However, one with memory usage concerns should use Djikstra's algorithm.
 
 ## Question 2
 
